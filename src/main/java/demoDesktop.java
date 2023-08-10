@@ -29,8 +29,8 @@ import java.util.Map;
 
 public class demoDesktop {
 
-    public String username = System.getenv("LT_USERNAME");
-    public String accesskey = System.getenv("LT_ACCESS_KEY");
+    public String username = "rakeshslambdatest";
+    public String accesskey = "MHu1nfiZVVPSteHsFVqybmvsxePoFJq0j8htKDk7uHcRwPgLGg";
     public RemoteWebDriver driver;
     public String gridURL = "hub.lambdatest.com";
     String status;
